@@ -12,11 +12,13 @@ public class Array {
         androidVersions[2]= "Cupcake";
         androidVersions[3]= "Donut";
 
-        System.out.println(androidVersions[0]);
-        System.out.println(androidVersions[1]);
-        System.out.println(androidVersions[2]);
-        System.out.println(androidVersions[3]);
+        for (int i = 0; i < androidVersions.length ; i++) {
+            System.out.println(androidVersions[i]);
+        }
 
+        for (String androidVersion: androidVersions) {
+            System.out.println(androidVersion);
+        }
         System.out.println();
         System.out.println();
 
@@ -29,14 +31,12 @@ public class Array {
         cities[3][0] = "Mexico";
         cities[3][1] = "CDMX";
 
-        System.out.println(cities[0][0]);
-        System.out.println(cities[0][1]);
-        System.out.println(cities[1][0]);
-        System.out.println(cities[1][1]);
-        System.out.println(cities[2][0]);
-        System.out.println(cities[2][1]);
-        System.out.println(cities[3][0]);
-        System.out.println(cities[3][1]);
+        for (int i = 0; i < cities.length; i++) {
+            for (int j = 0; j < cities[i].length; j++) {
+                System.out.println(cities[i][j]);
+            }
+        }
+
 
         String animal[][][][] = new String[2][3][2][2];
         animal[1][0][0][1] = "monkey";
