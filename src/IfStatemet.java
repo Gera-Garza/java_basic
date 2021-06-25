@@ -1,6 +1,6 @@
 public class IfStatemet {
     public static void main(String[] args) {
-        boolean isBluetoothEnable = true;
+        boolean isBluetoothEnable = false;
         int fileSended = 3;
 
         if (isBluetoothEnable) {
@@ -9,5 +9,6 @@ public class IfStatemet {
         }
         else
             System.out.println("Archivo no enviado");
+        System.out.println(isBluetoothEnable);
     }
 }
