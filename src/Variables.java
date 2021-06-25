@@ -10,8 +10,6 @@ public class Variables {
         String employeeName = "Gerardo Garza";
         System.out.println(employeeName);
 
-        byte i = 1, j= 1;
-        byte k = i + j;
 
 
     }
