@@ -28,8 +28,17 @@ public class Funciones {
         return (4/3)*Math.PI*Math.pow(rad,3);
     }
 
+    /**
+     * Descripción: Función que especificando su moneda convierte una cantidad de dinero a dolares
+     *
+     * @param quantity Cantidad de dinero
+     * @param currency Tipo de moneda que se desa convertir
+     * @return  quantity regresa la cantidad de la moneda convertida a dolares<
+     *
+     * */
     public static double covertToDolar(double quantity, String currency){
         //MXN
+
         switch (currency){
             case "MXN":
                 quantity *= 0.052;
