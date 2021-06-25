@@ -19,7 +19,7 @@ public class NaminginJava {
         //Lower Camel Case
         String fullName = "Gerardo Guillermo Garza Tamez";
         int sizeInCentimeters = 26;
-        
+
 
     }
 }
