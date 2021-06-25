@@ -8,7 +8,7 @@ public class Casting {
         //ESTIMACION
         int estimatedMonthlyDogs = (int) monthlyDogs;
         System.out.println(estimatedMonthlyDogs);
-        
+
         //EXACTITUD
         int a = 30;
         int b = 12;
