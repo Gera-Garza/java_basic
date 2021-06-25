@@ -1,5 +1,5 @@
         //Upper Camel Case
-public class NaminginJava {
+public class NamingJava {
     public static void main(String[] args) {
         int celphone = 333777;
         int celPhone = 555777;
