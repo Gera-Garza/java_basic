@@ -9,7 +9,7 @@ This is the repository for the course of Java_basics with Platzi, here you will 
 > * [Classes](#classes)
 > * [Variables](#variables)
 > * [Loops](#loops)
-> * [Condicionals](#condicionals)
+> * [Conditionals](#condicionals)
 	
 ## Technologies
 Project is created with:
@@ -95,7 +95,7 @@ So there are 2 principal kinds of loops,they have some variations but they are t
     }
 }
 ```
-### Condicionals
+### Conditionals
 The condicionals are the boolean results of comparing some values or variables, here are some examples:
  ```java
 public class LogicOperations {
