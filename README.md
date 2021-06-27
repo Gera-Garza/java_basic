@@ -5,7 +5,7 @@ This is the repository for the course of Java_basics with Platzi, here you will 
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Setup](#setup)
-* [Resume](#Resume)
+* [Summary](#summary)
 > * [Classes](#classes)
 > * [Variables](#variables)
 > * [Loops](#loops)
@@ -24,7 +24,7 @@ Then in the extensions tab search for **Java Extension Pack** and install it.
 
 Start your proyect creating your files with **.java**  
 
-## Resume
+## Summary
 In this course we see how to create a class, how to define and fill variables, the diferent loops like for loop or while loop, also some condicionals like **==** 
 or **>=**, **<=** and many others, and this is just a very general idea of how the course is.
 
