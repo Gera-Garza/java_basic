@@ -9,7 +9,7 @@ This is the repository for the course of Java_basics with Platzi, here you will 
 > * [Classes](#classes)
 > * [Variables](#variables)
 > * [Loops](#loops)
-> * [Conditionals](#condicionals)
+> * [Conditionals](#conditionals)
 	
 ## Technologies
 Project is created with:
