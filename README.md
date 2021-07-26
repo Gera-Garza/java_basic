@@ -10,7 +10,7 @@ This is the repository for the course of Java_basics with Platzi, here you will 
 > * [Access](#access)
 > * [Classes](#classes)
 > * [Control](#control)
-> > * [Desicion](#desicion)
+> > * [Decision](#decision)
 > > * [Loop](#loop)
 	
 ## Technologies
@@ -50,7 +50,7 @@ In here are some ways to declare it and I am talking about the access to the cla
 
 
 ### Classes
-> **TIP**: For the program to recognice what to run is neccesary the **main** function
+> **TIP**: For the program to recognice what to run is neccesary the **main** function this are examples in java 1.8
 ```java
 public class holamundo {
     public static void main(String[] args) {
@@ -89,7 +89,7 @@ public class Variables {
 ### Control
 There are many ways to control the flow of the program with this conditionals functions like loops, id, else, else if, while, do while, for, foreach, switch. 
 
-#### Desicion
+#### Decision
 The condicionals are the boolean results of comparing some values or variables,which includes the comands if, else, some combination of the two before and switch here are some examples: in java 1.8
  ```java
 public class LogicOperations {
